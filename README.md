@@ -3,7 +3,7 @@ A Java-based helper application for the "Amazing-challenge" at Windesheim Univer
 
 It contains the following helper tools:
 - "Twenty" syntax checker (custom programming language provided for the challenge).
-- Glade solver (based on the movie "Maze Runner").
+- Glade solver.
 
 This application was never fully finished, as the glade solver is missing the following key features:
 - Exporting/importing glades
