@@ -6,5 +6,5 @@ It contains the following helper tools:
 - Glade solver
 
 This application was never fully finished, as the glade solver is missing the following key features:
-- Exporting/importing glades
 - Solving the glade
+- Exporting/importing glades
