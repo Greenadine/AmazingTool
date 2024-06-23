@@ -1,5 +1,5 @@
 # AmazingTool
-A Java-based helper application for the "Amazing"-challenge at Windesheim University of Applied Sciences for the "Object-Oriented Software Design and Development" semester of the academic year of 2022-2023.
+A Java-based helper application for the "Amazing"-challenge at Windesheim University of Applied Sciences for the Object-Oriented Software Design and Development semester of the academic year of 2022/2023.
 
 It contains the following helper tools:
 - "Twenty" syntax checker (custom programming language provided for the challenge)
@@ -8,3 +8,6 @@ It contains the following helper tools:
 This application was never fully finished, as the glade solver is missing the following key features:
 - Glade solving algorithm
 - Exporting/importing glades
+
+## License
+This software is released to the public domain under the [Unlicense license](LICENSE).
